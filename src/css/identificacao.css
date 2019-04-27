@@ -1,0 +1,52 @@
+body{
+
+    background-image: url(../img/dubai.jpg);
+}
+
+
+.content{
+
+    background-color: aliceblue;
+    margin-left: 50;
+    padding: 155px;
+    float: left;
+    width: 50%;
+    height: 100px;
+
+}
+
+
+#aut{
+
+   
+ position: absolute ;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%,-50%);
+ width: 500px;
+ height: 450px;
+ justify-items: center;
+ border-radius: 20px;
+
+
+
+
+
+}
+#aut form{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-60%);
+  
+   
+    
+}
+
+
+
+.text-forgot{
+
+
+    margin-top:  110px;
+}

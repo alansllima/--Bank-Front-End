@@ -1,0 +1,41 @@
+body{
+
+    background-color: #f8f9fa;
+}
+
+#backconf{
+
+
+    background-image:  url(../img/dubai.jpg);
+ 
+    background-position: 50% 300%;
+background-attachment: fixed;
+box-shadow: 0px 2px #ffc107
+    
+
+
+
+    
+}
+#back{
+    box-shadow: 0px 2px white;
+    background-color: #ffc107;
+    background-size: cover;
+   
+
+
+}
+#foo{
+padding:30px;
+
+
+}
+#social{
+     
+    border-right: 1px solid white;
+  
+}
+#social li  {
+    padding: 10px;
+}
+
